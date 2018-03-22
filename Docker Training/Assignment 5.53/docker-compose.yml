@@ -7,3 +7,5 @@ services: test
 services: test2
 
 service: test3
+
+service: test4
