@@ -3,3 +3,5 @@
 version '2'
 
 services: test
+
+services: test2
